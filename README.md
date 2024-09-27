@@ -1,5 +1,5 @@
 👋 Hi, I’m @Negwael
-Not a lot of activity here as I am most on GitLab.
+Not a lot of activity here as I am mostly on GitLab.
 
 <!---
 Negwael/Negwael is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
